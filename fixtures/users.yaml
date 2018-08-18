@@ -1,0 +1,4 @@
+- model: users.User
+  pk: ef515c55-25fe-4984-bf41-c7b3f29ca9a1
+  fields:
+    created_at: 2018-01-01
